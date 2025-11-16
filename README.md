@@ -24,7 +24,9 @@ Clone the repository and install dependencies:
 
 ```sh
 git clone https://github.com/mulgeomkar/aprhub-analytic-dashboard
+cd aprhub-analytic-dashboard
 npm install
+
 ```
 
 ## Development
