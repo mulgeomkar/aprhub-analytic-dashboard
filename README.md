@@ -56,5 +56,14 @@ npm run build
 ## 🎨 Figma Design  
 [![Figma Design](https://img.shields.io/badge/Figma-Design-blue?logo=figma)](https://www.figma.com/make/3UtrW2HRNB5RS2BNe4nH4D/APR-Hub-Dashboard-Design?node-id=0-1&t=MgH3X7cmu1EYeKPi-1)
 
+## 🎨 Deployment
+
+[![Live demo](https://img.shields.io/badge/Live%20Demo-Vercel-brightgreen?logo=vercel)](https://aprhub-analytic-dashboard.vercel.app/)
+
+Visit the live site above. 
+
+
+
+
 
 
