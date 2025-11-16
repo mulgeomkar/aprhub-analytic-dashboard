@@ -5,7 +5,7 @@ This project is based on the APR Hub Dashboard Figma design.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **React 18**
 - **TypeScript**
@@ -28,7 +28,7 @@ npm install
 "# aprhub-analytics-dashboard"
 ```
 
-##🧪 Development
+## Development
 
 Start the development server:
 ```
@@ -41,7 +41,7 @@ The app will be available at:
 
 http://localhost:5173
 
-# # 🏗️ Build for Production
+## Build for Production
 
 Generate the optimized production build:
 ```
