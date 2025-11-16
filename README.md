@@ -23,9 +23,8 @@ This project is based on the APR Hub Dashboard Figma design.
 Clone the repository and install dependencies:
 
 ```sh
+git clone https://github.com/mulgeomkar/aprhub-analytic-dashboard
 npm install
-"# aprhub-analytics-dashboard" 
-"# aprhub-analytics-dashboard"
 ```
 
 ## Development
@@ -50,8 +49,12 @@ npm run build
 ```
 
 
-The output 
+## The output 
 ![Dashboard Preview](img.png)
+
+
+## 🎨 Figma Design  
+[![Figma Design](https://img.shields.io/badge/Figma-Design-blue?logo=figma)](https://www.figma.com/make/3UtrW2HRNB5RS2BNe4nH4D/APR-Hub-Dashboard-Design?node-id=0-1&t=MgH3X7cmu1EYeKPi-1)
 
 
 
