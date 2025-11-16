@@ -25,4 +25,43 @@ Clone the repository and install dependencies:
 ```sh
 npm install
 "# aprhub-analytics-dashboard" 
-"# aprhub-analytics-dashboard" 
+"# aprhub-analytics-dashboard"
+```
+
+##🧪 Development
+
+Start the development server:
+```
+
+npm run dev
+```
+
+
+The app will be available at:
+
+http://localhost:5173
+
+##🏗️ Build for Production
+
+Generate the optimized production build:
+```
+
+npm run build
+```
+
+
+The output will be inside the /dist folder.
+
+##📁 Project Structure
+root/
+│── index.html
+│── package.json
+│── vite.config.ts
+│── README.md
+└── src/
+    ├── main.tsx
+    ├── components/
+    ├── pages/
+    ├── hooks/
+    └── styles/
+
